@@ -1,0 +1,6 @@
+{
+  "versionCode": 11,
+  "versionName": "1.1.9",
+  "url": "https://cdn.jsdelivr.net/gh/yaoming-oss/pocket-money-update@main/pocket-money-1.1.9.apk",
+  "notes": "v1.1.9：更新服务迁移到 GitHub 仓库 + jsDelivr CDN（公网可达，不再依赖局域网）"
+}
