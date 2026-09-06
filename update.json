@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.0",
-  "url": "https://cdn.jsdelivr.net/gh/yaoming-oss/pocket-money-update@main/pocket-money-1.2.0.apk",
-  "notes": "v1.2.0：退款功能——点击流水行打开消费详情，支持退款/撤销退款；编辑可改分类"
+  "versionCode": 13,
+  "versionName": "1.2.1",
+  "url": "https://cdn.jsdelivr.net/gh/yaoming-oss/pocket-money-update@main/pocket-money-1.2.1.apk",
+  "notes": "v1.2.1：修复检查更新被缓存卡住（force no-store）+ 退款功能"
 }
